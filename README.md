@@ -229,7 +229,7 @@ function colorirDia() {
 - JavaScript
 
 # ``Autores``
-- Ricardo
-- Deivid
-- Eric
+- Ricardo Siena
+- Deivid Marques
+- Eric Mendes
 
